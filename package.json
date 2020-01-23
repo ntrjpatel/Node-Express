@@ -1,7 +1,7 @@
 {
-	"name": "Express",
+	"name": "node-express",
 	"version": "1.0.0",
-	"description": "Open Source ExpressJS Template",
+	"description": "Open Source ExpressJS Template to kickstart your basic project",
 	"author": "Netraj Patel <ntrjpatel@yahoo.com>",
 	"private": true,
 	"main": "index.js",
